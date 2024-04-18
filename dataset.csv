@@ -1,0 +1,101 @@
+Name,Club,Position,Appearances,Goals,Assists,Goals_per_match,xG,Games_won,Games_drawn,Games_lost,Yellow_cards,Red_cards
+Harry Kane,Tottenham Hotspur,Forward,36,25,10,0.69,27.5,20,8,8,3,0
+Mohamed Salah,Liverpool,Forward,35,28,12,0.8,29.8,23,6,6,2,0
+Kevin De Bruyne,Manchester City,Midfielder,32,8,20,0.25,12.3,25,4,3,5,0
+Bruno Fernandes,Manchester United,Midfielder,34,18,14,0.53,21.6,19,7,8,6,0
+Sadio Mané,Liverpool,Forward,33,21,9,0.64,22.1,22,5,6,4,0
+Jack Grealish,Aston Villa,Midfielder,30,12,10,0.4,15.7,14,8,8,5,1
+Raheem Sterling,Manchester City,Forward,31,15,10,0.48,17.2,21,5,5,3,0
+Son Heung-min,Tottenham Hotspur,Forward,33,20,8,0.61,21.8,20,6,7,2,0
+Jamie Vardy,Leicester City,Forward,32,23,5,0.72,20.5,18,7,7,2,0
+Marcus Rashford,Manchester United,Forward,34,17,11,0.5,19.4,20,6,8,4,0
+Trent Alexander-Arnold,Liverpool,Defender,33,3,15,0.09,7.2,22,6,5,6,0
+Virgil van Dijk,Liverpool,Defender,30,2,5,0.07,4.8,19,8,6,2,0
+Ruben Dias,Manchester City,Defender,33,1,2,0.03,3.6,26,4,3,4,0
+Andrew Robertson,Liverpool,Defender,32,1,8,0.03,4.7,22,5,5,4,0
+Harry Maguire,Manchester United,Defender,31,3,2,0.1,3.2,18,9,4,7,1
+Mason Mount,Chelsea,Midfielder,32,11,9,0.34,13.8,20,7,5,3,0
+N'Golo Kanté,Chelsea,Midfielder,29,4,5,0.14,5.9,16,8,5,7,0
+Phil Foden,Manchester City,Midfielder,30,9,7,0.3,11.4,24,2,4,2,0
+James Ward-Prowse,Southampton,Midfielder,33,7,8,0.21,9.2,12,10,11,7,2
+Wilfried Zaha,Crystal Palace,Forward,32,13,7,0.41,14.5,12,8,12,5,1
+Riyad Mahrez,Manchester City,Forward,30,11,10,0.37,13.2,23,4,3,3,0
+Declan Rice,West Ham United,Midfielder,31,3,6,0.1,5.5,18,9,4,9,0
+John Stones,Manchester City,Defender,28,2,1,0.07,2.9,24,3,3,2,0
+Ben Chilwell,Chelsea,Defender,29,1,6,0.03,3.9,17,8,7,5,0
+Kyle Walker,Manchester City,Defender,30,0,5,0,1.8,24,2,4,3,0
+Fernandinho,Manchester City,Midfielder,27,2,3,0.07,3.1,23,4,4,7,1
+Jordan Henderson,Liverpool,Midfielder,28,2,4,0.07,4.2,16,6,6,4,0
+Gareth Bale,Tottenham Hotspur,Forward,28,9,3,0.32,9.7,14,7,7,3,0
+Diogo Jota,Liverpool,Forward,25,10,2,0.4,10.6,20,4,6,2,0
+Wilfred Ndidi,Leicester City,Midfielder,30,2,2,0.07,2.8,16,7,9,8,0
+Thiago Alcântara,Liverpool,Midfielder,26,1,7,0.04,4.5,15,8,9,6,0
+Kieran Tierney,Arsenal,Defender,27,1,5,0.04,3.3,12,8,12,6,0
+Rúben Neves,Wolverhampton Wanderers,Midfielder,29,5,2,0.17,5.7,11,7,14,6,1
+Eberechi Eze,Crystal Palace,Midfielder,28,6,4,0.21,7.8,9,10,15,3,0
+Aaron Wan-Bissaka,Manchester United,Defender,28,0,3,0,0.8,20,7,7,8,1
+Che Adams,Southampton,Forward,27,8,3,0.3,8.4,10,7,15,3,0
+Mason Greenwood,Manchester United,Forward,24,6,2,0.25,6.9,16,5,13,2,0
+Patrick Bamford,Leeds United,Forward,30,17,6,0.57,17.2,12,5,21,5,0
+Aaron Ramsey,Arsenal,Midfielder,25,3,4,0.12,4.9,10,9,19,4,0
+Matheus Pereira,West Bromwich Albion,Midfielder,29,9,5,0.31,10.2,7,6,25,7,1
+Allan Saint-Maximin,Newcastle United,Forward,26,7,5,0.27,8.5,9,8,21,2,0
+Erling Haaland,Chelsea,Forward,35,30,8,0.86,31.2,25,6,4,2,0
+Kylian Mbappé,Manchester City,Forward,33,26,11,0.79,28.9,23,7,3,3,0
+Lionel Messi,Manchester United,Forward,32,24,16,0.75,27.4,21,8,3,1,0
+Robert Lewandowski,Liverpool,Forward,34,33,7,0.97,32.6,27,5,2,2,0
+Neymar,Chelsea,Forward,30,17,13,0.57,19.3,19,7,4,4,0
+Sergio Agüero,Leicester City,Forward,29,14,5,0.48,16.1,15,6,8,3,0
+Antoine Griezmann,Tottenham Hotspur,Forward,31,18,9,0.58,20.7,18,8,5,2,0
+Romelu Lukaku,Arsenal,Forward,33,23,8,0.7,25.6,21,6,6,4,0
+Paul Pogba,Manchester City,Midfielder,32,6,12,0.19,10.8,24,3,5,4,0
+Luka Modrić,Arsenal,Midfielder,30,3,10,0.1,6.5,17,8,5,5,0
+Giovanni Reyna,Manchester United,Midfielder,28,9,8,0.32,10.4,19,5,6,6,0
+Jadon Sancho,Liverpool,Forward,31,12,10,0.39,14.2,20,7,4,2,0
+Philipp Lahm,Chelsea,Defender,32,0,6,0,1.9,22,6,4,2,0
+Sergio Ramos,Manchester United,Defender,31,3,2,0.1,3.3,19,7,5,5,1
+Virgil van Dijk,Tottenham Hotspur,Defender,32,2,4,0.06,4.1,20,8,4,3,0
+Joshua Kimmich,Manchester City,Midfielder,34,5,12,0.15,8.7,26,3,5,7,0
+Thiago Silva,Arsenal,Defender,30,1,3,0.03,3.2,18,8,6,4,0
+Eden Hazard,Liverpool,Forward,29,10,9,0.34,11.6,16,9,7,2,0
+Gianluigi Buffon,Tottenham Hotspur,Goalkeeper,30,0,0,0,0,19,8,3,1,0
+Alisson Becker,Arsenal,Goalkeeper,32,0,0,0,0,23,6,3,2,0
+Ederson Manchester, City,Goalkeeper,31,0,0,0,0,22,5,4,3,0
+Manuel Neuer,Liverpool,Goalkeeper,33,0,0,0,0,24,3,5,4,0
+David de Gea,Tottenham Hotspur,Goalkeeper,29,0,0,0,0,18,9,5,3,0
+Hakim Ziyech,Manchester United,Midfielder,30,6,8,0.2,8.3,21,6,5,4,0
+Marquinhos,Arsenal,Defender,31,2,3,0.06,3.4,19,7,5,6,0
+Fabinho,Liverpool,Midfielder,32,3,7,0.09,5.1,21,8,3,3,0
+Raphaël Varane,Manchester City,Defender,28,1,2,0.04,2.6,22,5,5,4,0
+Kai Havertz,Chelsea,Midfielder,29,8,5,0.28,9.1,17,8,6,3,0
+Timo Werner,Tottenham Hotspur,Forward,31,14,6,0.45,15.8,20,5,6,2,0
+Jorginho,Manchester United,Midfielder,33,5,10,0.15,8.6,19,7,5,6,0
+Vinícius Júnior,Liverpool,Forward,30,11,6,0.37,12.8,18,9,3,4,0
+César Azpilicueta,Manchester City,Defender,32,0,4,0,2.7,25,5,3,2,0
+Aymeric Laporte,Tottenham Hotspur,Defender,31,1,1,0.03,2.9,20,8,4,3,0
+Jan Oblak,Manchester United,Goalkeeper,33,0,0,0,0,20,7,4,2,0
+Kasper Schmeichel,Liverpool,Goalkeeper,30,0,0,0,0,21,7,5,3,0
+Riyad Mahrez,Chelsea,Forward,29,11,9,0.38,12.6,18,8,4,2,0
+Marc-André ter Stegen,Manchester City,Goalkeeper,32,0,0,0,0,23,5,6,3,0
+Leon Goretzka,Tottenham Hotspur,Midfielder,31,7,5,0.23,8.9,18,7,6,4,0
+Ferran Torres,Manchester United,Forward,30,10,5,0.33,11.4,20,6,4,3,0
+Gabriel Jesus,Leeds United,Forward,28,10,7,0.36,11.2,15,6,7,2,0
+João Félix,West Ham United,Forward,30,12,8,0.4,13.5,14,8,8,3,0
+Christian Pulisic,Newcastle United,Forward,27,9,6,0.33,10.1,12,6,12,4,0
+Frenkie de Jong,Sheffield United,Midfielder,29,4,10,0.14,7.3,10,8,11,5,0
+Pedri,Brighton & Hove Albion,Midfielder,28,3,9,0.11,6.8,9,9,12,3,0
+Jude Bellingham,Fulham,Midfielder,27,5,7,0.19,8.2,8,10,12,6,0
+Kieran Trippier,Burnley,Defender,30,1,6,0.03,3.5,11,7,12,8,1
+Serge Gnabry,Crystal Palace,Forward,29,11,5,0.38,12.6,10,8,11,2,0
+Raphinha,Leicester City,Midfielder,28,8,6,0.29,10.3,13,5,12,2,0
+João Cancelo,Southampton,Defender,29,2,8,0.07,5.1,14,6,9,4,0
+Thorgan Hazard,Wolverhampton Wanderers,Forward,26,7,6,0.27,8.9,11,5,14,3,0
+Matthijs de Ligt,Everton,Defender,30,3,2,0.1,3.7,12,7,11,6,0
+Marcus Thuram,Brighton & Hove Albion,Forward,28,10,4,0.36,11.8,13,6,11,5,1
+David Alaba,West Ham United,Defender,29,1,4,0.03,2.9,10,8,11,2,0
+Houssem Aouar,Burnley,Midfielder,27,6,4,0.22,7.9,9,9,12,4,0
+Lucas Digne,Fulham,Defender,28,2,7,0.07,4.3,11,7,10,3,0
+Federico Chiesa,Sheffield United,Forward,29,9,3,0.31,10.2,11,6,12,4,0
+Dayot Upamecano,Crystal Palace,Defender,30,1,2,0.03,2.6,10,8,12,5,0
+Nicolas Pépé,Wolverhampton Wanderers,Forward,28,8,5,0.29,9.4,12,5,13,4,0
+Yannick Carrasco,Burnley,Midfielder,26,4,7,0.15,6.8,10,7,13,2,0
